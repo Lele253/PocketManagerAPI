@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "io": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "jwts": "^2.0.0"
+  }
+}
